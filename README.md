@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🔭 I’m looking for job right now
 - 🌱 I’m intrersted in Java (Enterprise Edition)
 - 📫 How to reach me: seyedamin1990@gmail.com
-- 📫 Also mt [Linkedin](https://www.linkedin.com/in/sm2a/)
+- 📫 Also my [Linkedin](https://www.linkedin.com/in/sm2a/)
 - 😄 My resume is hear [here](https://github.com/SM2A/SM2A/blob/main/Seyed%20Mohammad%20Amin%20Atyabi_CV.pdf)
