@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- ⚡ I’m currently teaching assistant at University of Tehran
-      (Introduction to Computing systems and programming)
-- 🔭 I’m looking for job right now
+- ⚡ Currently I'm looking for job as part-time java developer
 - 🌱 I’m intrersted in Java (Enterprise Edition)
 - 📫 How to reach me: seyedamin1990@gmail.com
 - 📫 Also my [Linkedin](https://www.linkedin.com/in/sm2a/)
