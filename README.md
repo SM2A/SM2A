@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: seyedamin1990@gmail.com
 - 📫 Also my [Linkedin](https://www.linkedin.com/in/sm2a/)
 - 😄 My resume is hear [here](https://github.com/SM2A/SM2A/blob/main/Seyed%20Mohammad%20Amin%20Atyabi.pdf)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SM2A&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SM2A&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
