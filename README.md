@@ -22,8 +22,5 @@ Here are some ideas to get you started:
 - 📫 Also my [Linkedin](https://www.linkedin.com/in/sm2a/)
 - 😄 My resume is hear [here](https://github.com/SM2A/SM2A/blob/main/Seyed%20Mohammad%20Amin%20Atyabi.pdf)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SM2A&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SM2A&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SM2A&theme=graywhite&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SM2A&theme=graywhite&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
--->
