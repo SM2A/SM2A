@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Image of https://github.com/SM2A/Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/profile/badge.svg)](https://github.com/SM2A/Profile_View_Counter)
+<!-- [![Image of https://github.com/SM2A/Profile_View_Counter](https://github.com/SM2A/Profile_View_Counter/blob/master/svg/profile/badge.svg)](https://github.com/SM2A/Profile_View_Counter) -->
 
 - 📫 How to reach me: seyedamin1990@gmail.com
 - 📘 My [Linkedin](https://www.linkedin.com/in/sm2a/)
