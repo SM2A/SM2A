@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: seyedamin1990@gmail.com
 - 📘 My [Linkedin](https://www.linkedin.com/in/sm2a/)
-- 📃 My resume is hear [here](https://github.com/SM2A/SM2A/blob/main/Seyed%20Mohammad%20Amin%20Atyabi.pdf)
+<!-- - 📃 My resume is hear [here](https://github.com/SM2A/SM2A/blob/main/Seyed%20Mohammad%20Amin%20Atyabi.pdf) -->
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SM2A&count_private=true&show_icons=true&include_all_commits=true">
