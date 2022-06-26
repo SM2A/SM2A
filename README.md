@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 - 📘 My [Linkedin](https://www.linkedin.com/in/sm2a/)
 <!-- - 📃 My resume is hear [here](https://github.com/SM2A/SM2A/blob/main/Seyed%20Mohammad%20Amin%20Atyabi.pdf) -->
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,discord,github, gitlab, gradle, idea, java, kotlin, linkedin, linux, md, powershell, py, stackoverflow&theme=light" />
+</div>
+
 <!--<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SM2A&count_private=true&show_icons=true&include_all_commits=true">
   </br>
