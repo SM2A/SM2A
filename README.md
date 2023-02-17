@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 📘 My [Linkedin](https://www.linkedin.com/in/sm2a/)
 <!-- - 📃 My resume is hear [here](https://github.com/SM2A/SM2A/blob/main/Seyed%20Mohammad%20Amin%20Atyabi.pdf) -->
 
+<a href="https://stackexchange.com/users/11540266/seyed-mohammad-amin-atyabi"><img src="https://stackexchange.com/users/flair/11540266.png" width="208" height="58" alt="profile for Seyed Mohammad Amin Atyabi on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Seyed Mohammad Amin Atyabi on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,androidstudio,idea,github,gitlab,linux,powershell,py,stackoverflow&theme=light" />
 </div>
