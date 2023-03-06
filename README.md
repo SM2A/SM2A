@@ -3,7 +3,9 @@
 - 📫 How to reach me: seyedamin1990@gmail.com
 - 📘 My [Linkedin](https://www.linkedin.com/in/sm2a/)
 
-<a href="https://stackoverflow.com/users/8456245/seyed-mohammad-amin-atyabi"><img src="https://stackoverflow.com/users/flair/8456245.png" width="208" height="58" alt="Seyed Mohammad Amin Atyabi on Stack Overflow" title="Seyed Mohammad Amin Atyabi on Stack Overflow" /></a>
+<div align="center">
+  <a href="https://stackoverflow.com/users/8456245/seyed-mohammad-amin-atyabi"><img src="https://stackoverflow.com/users/flair/8456245.png" width="208"   height="58" alt="Seyed Mohammad Amin Atyabi on Stack Overflow" title="Seyed Mohammad Amin Atyabi on Stack Overflow" /></a>
+</div>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,androidstudio,idea,github,gitlab,linux,powershell,py,stackoverflow&theme=light" />
