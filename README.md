@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,androidstudio,idea,github,gitlab,linux,powershell,py,stackoverflow&theme=light" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,androidstudio,idea,github,githubactions,gitlab,linux,powershell,py,stackoverflow&theme=light" />
 </div>
 
 <details>
